@@ -1,0 +1,21 @@
+.headLine {
+    position: relative;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.time{
+    margin: 15px;
+
+}
+
+.date{
+    margin: 15px;
+}
+
+.wether {
+    margin: 15px;
+    margin-right: auto;
+}

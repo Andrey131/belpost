@@ -1,0 +1,22 @@
+.sliderBody {
+    position: relative;
+}
+
+.sliderImage{
+    height: 608px;
+}
+
+.sliderBack {
+    position: absolute;
+    z-index: 1;
+    top: 268px; 
+    left: 20px; 
+}
+
+.sliderForward {
+    position: absolute;
+    z-index: 1;
+    top: 268px; 
+    right: 20px;
+}
+
